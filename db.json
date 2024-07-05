@@ -1,47 +1,47 @@
 [
   {
-    image: 'https://example.com/image1.jpg',
-    name: 'Chișinău, Moldova',
-    phone: '123-456-7890',
-    email: 'info@chisinau.md',
-    week: '09:00 - 18:00',
-    weekend: '10:00 - 16:00',
-    coords: [47.0105, 28.8638]
+    "image": "https://example.com/image1.jpg",
+    "name": "Chișinău, Moldova",
+    "phone": "123-456-7890",
+    "email": "info@chisinau.md",
+    "week": "09:00 - 18:00",
+    "weekend": "10:00 - 16:00",
+    "coords": [47.0105, 28.8638]
   },
   {
-    image: 'https://example.com/image2.jpg',
-    name: 'București, România',
-    phone: '098-765-4321',
-    email: 'info@bucuresti.ro',
-    week: '08:00 - 17:00',
-    weekend: '09:00 - 15:00',
-    coords: [44.4268, 26.1025]
+    "image": "https://example.com/image2.jpg",
+    "name": "București, România",
+    "phone": "098-765-4321",
+    "email": "info@bucuresti.ro",
+    "week": "08:00 - 17:00",
+    "weekend": "09:00 - 15:00",
+    "coords": [44.4268, 26.1025]
   },
   {
-    image: 'https://example.com/image3.jpg',
-    name: 'Cluj-Napoca, România',
-    phone: '321-654-9870',
-    email: 'info@cluj.ro',
-    week: '09:00 - 18:00',
-    weekend: '10:00 - 16:00',
-    coords: [46.7704, 23.5914]
+    "image": "https://example.com/image3.jpg",
+    "name": "Cluj-Napoca, România",
+    "phone": "321-654-9870",
+    "email": "info@cluj.ro",
+    "week": "09:00 - 18:00",
+    "weekend": "10:00 - 16:00",
+    "coords": [46.7704, 23.5914]
   },
   {
-    image: 'https://example.com/image4.jpg',
-    name: 'Iași, România',
-    phone: '567-890-1234',
-    email: 'info@iasi.ro',
-    week: '08:00 - 17:00',
-    weekend: '09:00 - 15:00',
-    coords: [47.1585, 27.6014]
+    "image": "https://example.com/image4.jpg",
+    "name": "Iași, România",
+    "phone": "567-890-1234",
+    "email": "info@iasi.ro",
+    "week": "08:00 - 17:00",
+    "weekend": "09:00 - 15:00",
+    "coords": [47.1585, 27.6014]
   },
   {
-    image: 'https://example.com/image5.jpg',
-    name: 'Timișoara, România',
-    phone: '456-789-0123',
-    email: 'info@timisoara.ro',
-    week: '09:00 - 18:00',
-    weekend: '10:00 - 16:00',
-    coords: [45.7489, 21.2087]
+    "image": "https://example.com/image5.jpg",
+    "name": "Timișoara, România",
+    "phone": "456-789-0123",
+    "email": "info@timisoara.ro",
+    "week": "09:00 - 18:00",
+    "weekend": "10:00 - 16:00",
+    "coords": [45.7489, 21.2087]
   }
 ]
