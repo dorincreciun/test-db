@@ -1,4 +1,4 @@
-{
+[
   {
     image: 'https://example.com/image1.jpg',
     name: 'Chișinău, Moldova',
@@ -44,4 +44,4 @@
     weekend: '10:00 - 16:00',
     coords: [45.7489, 21.2087]
   }
-}
+]
